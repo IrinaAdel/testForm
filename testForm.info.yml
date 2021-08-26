@@ -1,0 +1,4 @@
+name: testForm
+description: Custom module for Form API
+type: module
+core: 8.x
