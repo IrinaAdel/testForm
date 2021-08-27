@@ -1,7 +1,7 @@
 {
     "name": "irinaadel/testform",
     "description": "test composer.json file",
-    "type": "drupal-module",
+    "type": "drupal-module-custom",
     "homepage": "https://github.com/IrinaAdel/testForm"
   }
   
